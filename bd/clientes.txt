@@ -1,0 +1,45 @@
+<registro>
+<codigo>1</codigo>
+<nome>joao</nome>
+<cpf_cnpj>12345677</cpf_cnpj>
+<endereco>rua da cunha, formiga mg</endereco>
+<telefone>37 998456678</telefone>
+<email>joao@teste</email>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>2</codigo>
+<nome>joao</nome>
+<cpf_cnpj>fhdfo</cpf_cnpj>
+<endereco>hfdfjdpf</endereco>
+<telefone>dfidhfdf</telefone>
+<email>dfifdf</email>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>3</codigo>
+<nome>tiao</nome>
+<cpf_cnpj>gfduifo</cpf_cnpj>
+<endereco>hdfuiofd</endereco>
+<telefone>gdfidfh</telefone>
+<email>gdffdoj</email>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>4</codigo>
+<nome>joao</nome>
+<cpf_cnpj>teste</cpf_cnpj>
+<endereco>teste</endereco>
+<telefone>teste</telefone>
+<email>teste</email>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>5</codigo>
+<nome>joao pinto</nome>
+<cpf_cnpj>fhukdfdf</cpf_cnpj>
+<endereco>gdfdyidfh</endereco>
+<telefone>dfggidfhodf</telefone>
+<email>dgfifo</email>
+<ativo>1</ativo>
+</registro>

@@ -1,0 +1,3 @@
+<registro>
+  <valor_em_caixa>34856.96</valor_em_caixa>
+</registro>

@@ -1,0 +1,8 @@
+codigo;formaPagamento;valorTotal;tipoTransacao;dataTransacao
+1;0;200.00;0;1738332580
+2;1;200.00;0;1738332649
+codigo;codTransacao;dataPagamento;dataEfeituacaoPagamento;pago
+2;6;1740924926;1738333107;1
+codigo;codTransacao;dataPagamento;valor;recebimento;pago
+3;4;1746108803;100.00;1738378800;1
+4;5;1740924872;150.00;0;-1

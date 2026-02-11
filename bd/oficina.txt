@@ -1,0 +1,8 @@
+<registro>
+<nome>teste</nome>
+<cpf_cnpj>teste</cpf_cnpj>
+<endereco>teste</endereco>
+<telefone>teste</telefone>
+<email>teste</email>
+<porcentagem_lucro>15.00</porcentagem_lucro>
+</registro>

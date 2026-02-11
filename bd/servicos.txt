@@ -1,0 +1,28 @@
+<registro>
+<codigo>1</codigo>
+<descricao>troca de motor</descricao>
+<preco>500.00</preco>
+<comicao>5.00</comicao>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>2</codigo>
+<descricao>troca de oleo</descricao>
+<preco>200.00</preco>
+<comicao>2.00</comicao>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>3</codigo>
+<descricao>troca de farol</descricao>
+<preco>300.00</preco>
+<comicao>50.00</comicao>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>4</codigo>
+<descricao>troca de vela</descricao>
+<preco>100.00</preco>
+<comicao>10.00</comicao>
+<ativo>1</ativo>
+</registro>

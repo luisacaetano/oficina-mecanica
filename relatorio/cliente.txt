@@ -1,0 +1,4 @@
+codigo;nome;cpf_cnpj;telefone;email;endereco
+1;joao;12345677;37 998456678;joao@teste;rua da cunha, formiga mg
+2;joao;fhdfo;dfidhfdf;dfifdf;hfdfjdpf
+4;joao;teste;teste;teste;teste

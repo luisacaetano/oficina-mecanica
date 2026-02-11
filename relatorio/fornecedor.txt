@@ -1,0 +1,3 @@
+codigo;nome_fantasia;razao_social;cnpj;endereco;telefone;email
+2;pedro;1718183014;gdfshf;fgdifofe;gfdyiffj;fvgdudfihodfj
+3;pedro;1684432742;gfdfiojdf;dgfdfidfj;gvgfhgf;gfifghogfjgf

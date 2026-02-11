@@ -1,0 +1,30 @@
+<registro>
+<codigo>1</codigo>
+<nome>joaozinho da barraca</nome>
+<cpf>12344556</cpf>
+<endereco>rua da cunha, centro, formiga</endereco>
+<telefone>123455678</telefone>
+<cargo>piao</cargo>
+<salario>2000.000000</salario>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>2</codigo>
+<nome>josé</nome>
+<cpf>12344566</cpf>
+<endereco>bfdifodf</endereco>
+<telefone>dfvjfdjdfd</telefone>
+<cargo>fvdifhd</cargo>
+<salario>1450.000000</salario>
+<ativo>1</ativo>
+</registro>
+<registro>
+<codigo>3</codigo>
+<nome>jose</nome>
+<cpf>1233445</cpf>
+<endereco>dudfhid</endereco>
+<telefone>fdgudfiddf</telefone>
+<cargo>fduydfihfd</cargo>
+<salario>1250.000000</salario>
+<ativo>1</ativo>
+</registro>
